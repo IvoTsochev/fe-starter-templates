@@ -1,6 +1,6 @@
 {
-  "name": "burn",
-  "version": "1.0.0",
+  "name": "@ivo_tsochev/burn",
+  "version": "1.0.1",
   "description": "Setting up starter tetmplates from CLI",
   "main": "index.js",
   "type": "module",
@@ -13,9 +13,13 @@
   "author": "Ivo Tsochev",
   "license": "ISC",
   "bugs": {
-    "url": ""
+    "url": "https://github.com/IvoTsochev/burn.git"
   },
-  "homepage": "",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/IvoTsochev/burn.git"
+  },
+  "homepage": "https://github.com/IvoTsochev/burn.git",
   "dependencies": {
     "inquirer": "^8.0.0"
   },
