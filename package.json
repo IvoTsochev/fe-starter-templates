@@ -1,25 +1,25 @@
 {
-  "name": "@ivo_tsochev/burn",
-  "version": "1.0.1",
+  "name": "fe-starter-templates",
+  "version": "1.0.2",
   "description": "Setting up starter tetmplates from CLI",
   "main": "index.js",
   "type": "module",
   "bin": {
-    "burn": "./index.js"
+    "fe": "./index.js"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Ivo Tsochev",
-  "license": "ISC",
+  "license": "MIT",
   "bugs": {
-    "url": "https://github.com/IvoTsochev/burn.git"
+    "url": "github.com/IvoTsochev/fe-starter-templates.git"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/IvoTsochev/burn.git"
+    "url": "github.com/IvoTsochev/fe-starter-templates.git"
   },
-  "homepage": "https://github.com/IvoTsochev/burn.git",
+  "homepage": "github.com/IvoTsochev/fe-starter-templates.git",
   "dependencies": {
     "inquirer": "^8.0.0"
   },
