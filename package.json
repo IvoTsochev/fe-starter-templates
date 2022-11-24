@@ -20,6 +20,13 @@
     "url": "github.com/IvoTsochev/fe-starter-templates.git"
   },
   "homepage": "github.com/IvoTsochev/fe-starter-templates.git",
+  "keywords": [
+    "nextjs",
+    "react",
+    "template",
+    "tailwindcss",
+    "typescript"
+  ],
   "dependencies": {
     "inquirer": "^8.0.0"
   },
